@@ -1,5 +1,7 @@
 apples
 berries
 cherries
-durian (the king of fruits)
-mangosteen (his queen)
+durians (the king of fruits)
+mangosteens (his queen)
+pears
+bananas
